@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a PhD candidate in Electrical and Computer Engineering at the University of Sydney, Australia, with a strong passion for computer hardware. My research is centered around computer architecture and embedded systems, where I explore efficient multicore processing, hardware-accelerated computing, and system-level design techniques. I enjoy working on challenges that combine theoretical depth with practical implementation, particularly in FPGA-based platforms.
+I’m a PhD candidate in the School of Electrical and Computer Engineering at the University of Sydney, Australia, with a strong passion for computer hardware. My research is centered around computer architecture and embedded systems, where I explore efficient multicore processing, hardware-accelerated computing, and system-level design techniques. I enjoy working on challenges that combine theoretical depth with practical implementation, particularly in FPGA-based platforms.
 
 I earned my Bachelor of Science in Computer Engineering with First Class Honours from the University of Peradeniya, Sri Lanka, in 2023. During my undergraduate studies, I completed a six-month internship at Synopsys, where I worked with CUDA-based technologies. In addition to my academic work, I also served as a casual instructor for junior undergraduate courses, helping students strengthen their understanding of computer engineering fundamentals. My time at Peradeniya provided a strong foundation in computer hardware, which continues to support my current research interests.
 
