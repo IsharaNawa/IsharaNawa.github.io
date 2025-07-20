@@ -145,12 +145,12 @@ newsletter:
 collections:
   books:
     output: true
-  news:
-    defaults:
-      layout: post
-    output: true
-  projects:
-    output: true
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
+  # projects:
+  #   output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -191,8 +191,32 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+
+  #removing blog
   - _posts/
   - _pages/blog.md
+  
+  # remove repositories page
+  - _pages/repositories.md
+  - _includes/repository/
+
+  # remove teaching page
+  - _pages/teaching.md
+
+  # remove projects page
+  - _pages/projects
+  - _pages/projects.md
+  - _includes/projects_horizontal.liquid
+  - _includes/projects.liquid
+
+  # remove people page
+  - _pages/profiles
+
+  # remove publications page
+  - _bibliography 
+  - _pages/publications.md
+
+
 keep_files:
   - CNAME
   - .nojekyll
