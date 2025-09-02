@@ -58,6 +58,15 @@
   ],
   "work": [
     {
+      "name": "University of Sydney",
+      "position": "Casual Academic",
+      "url": "https://www.sydney.edu.au/",
+      "startDate": "2025-08-08",
+      "endDate": "2026-01-01",
+      "summary": "Currently working as a Teaching Assistant for the Computer Systems and Communication Networks courses, supporting student learning and engagement.",
+      "highlights": []
+    },
+    {
       "name": "Sysco Labs Sri Lanka",
       "position": "Software Engineer",
       "url": "https://syscolabs.lk/",
